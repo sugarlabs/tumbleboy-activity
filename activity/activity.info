@@ -1,0 +1,7 @@
+[Activity]
+name = TumbleBoy
+activity_version = 1
+host_version = 1
+service_name = net.coderanger.olpc.TumbleBoyActivity
+icon = activity-tumbleboy
+class = activity.TumbleBoyActivity
